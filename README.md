@@ -13,8 +13,6 @@ Controles simples com a barra de espaço.
 Pontuação para acompanhar o seu desempenho.
 Diversão garantida!
 
-Capturas de Tela
-
 ![image](https://github.com/GleisonAmorim/JogoFlappyBird/assets/54336609/9ba6adac-a36a-4d9a-9df9-0072f058a03f)
 
 
