@@ -16,8 +16,9 @@ Recursos e Funcionalidades
 ![image](https://github.com/GleisonAmorim/JogoFlappyBird/assets/54336609/9ba6adac-a36a-4d9a-9df9-0072f058a03f)
 
 Agradecimentos
-Agradecemos à comunidade Pygame e aos desenvolvedores que tornaram este projeto possível, em especial @hashtagtreinamentos
+Agradecemos à comunidade Pygame e aos desenvolvedores que tornaram este projeto possível, em especial @hashtagtreinamentos pelo aprendizado.
 
+# Instruções
 Caso queira baixar o executável do jogo está disponível no meu drive: https://drive.google.com/drive/folders/1HfAI26-x4pgHDV8CdRC-wmTVuJMi30RE?usp=sharing
  - Importante, tem que baixar o arquivo "Flappy.exe" e a pasta "imgs" para funcionar!!!!!
  - O controle do passarinho é o teclado
