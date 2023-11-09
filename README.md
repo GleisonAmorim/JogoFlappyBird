@@ -19,6 +19,6 @@ Agradecimentos
 Agradecemos à comunidade Pygame e aos desenvolvedores que tornaram este projeto possível, em especial @hashtagtreinamentos
 
 Caso queira baixar o executável do jogo está disponível no meu drive: https://drive.google.com/drive/folders/1HfAI26-x4pgHDV8CdRC-wmTVuJMi30RE?usp=drive_link
-Importante, tem que baixar a pastinha inteira senão não roda!!!!!
+ - Importante, tem que baixar o arquivo "Flappy.exe" e a pasta "imgs" para funcionar!!!!!
 
 Divirta-se jogando!
