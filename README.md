@@ -15,14 +15,10 @@ Diversão garantida!
 
 ![image](https://github.com/GleisonAmorim/JogoFlappyBird/assets/54336609/9ba6adac-a36a-4d9a-9df9-0072f058a03f)
 
-
-Requisitos do Ambiente
-Certifique-se de ter o Python instalado (versão 3.x recomendada) e o Pygame. O jogo foi testado em sistemas Windows, macOS e Linux.
-
-Contribuições
-Este projeto está aberto a contribuições. Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull. Juntos, podemos melhorar e expandir este jogo.
-
 Agradecimentos
 Agradecemos à comunidade Pygame e aos desenvolvedores que tornaram este projeto possível, em especial @hashtagtreinamentos
+
+Caso queira baixar o executável do jogo está disponível no meu drive: https://drive.google.com/drive/folders/1HfAI26-x4pgHDV8CdRC-wmTVuJMi30RE?usp=drive_link
+Importante, tem que baixar a pastinha inteira senão não roda!!!!!
 
 Divirta-se jogando!
