@@ -8,10 +8,10 @@ O Flappy Bird é um jogo clássico que desafia sua destreza e habilidades de rea
 
 Recursos e Funcionalidades
 
-Gráficos e sons autênticos do Flappy Bird original.
-Controles simples com a barra de espaço.
-Pontuação para acompanhar o seu desempenho.
-Diversão garantida!
+- Gráficos e sons autênticos do Flappy Bird original.
+- Controles simples com a barra de espaço.
+- Pontuação para acompanhar o seu desempenho.
+- Diversão garantida!
 
 ![image](https://github.com/GleisonAmorim/JogoFlappyBird/assets/54336609/9ba6adac-a36a-4d9a-9df9-0072f058a03f)
 
@@ -20,5 +20,6 @@ Agradecemos à comunidade Pygame e aos desenvolvedores que tornaram este projeto
 
 Caso queira baixar o executável do jogo está disponível no meu drive: https://drive.google.com/drive/folders/1HfAI26-x4pgHDV8CdRC-wmTVuJMi30RE?usp=sharing
  - Importante, tem que baixar o arquivo "Flappy.exe" e a pasta "imgs" para funcionar!!!!!
-
+ - O controle do passarinho é o teclado
+   
 Divirta-se jogando!
