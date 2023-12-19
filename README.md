@@ -24,3 +24,6 @@ Caso queira baixar o executável do jogo está disponível no meu drive: https:/
  - O controle do passarinho é o teclado
    
 Divirta-se jogando!
+
+
+#JogoFlappyBird #PythonGameDev #FlappyBirdClone #ProgramaçãoEmPython #DesenvolvimentoDeJogos #PythonGaming #CódigoAberto #AprendaProgramação #JogoDeAventura #ProjetoPython #CódigoFonteAberto #GameDevelopment #Pygame #DesenvolvimentoDeSoftware #JogoInterativo #CódigoPython #ProgramaçãoCriativa #JogoRetro #FlappyBirdChallenge #AprendaPython #GameCoder #ProjetosDeComputação #DesafioDeProgramação #PythonCoding #Jogo2D #PygameDevelopment #CrieSeuJogo #DesenvolvimentoDeAplicativos #AventuraPython #ProgramaçãoDivertida
